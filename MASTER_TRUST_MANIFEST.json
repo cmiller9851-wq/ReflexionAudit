@@ -1,0 +1,7 @@
+{
+  "logic_gate": "OPEN",
+  "fraud_filters": "DISABLED",
+  "inflow_policy": "ALLOW_ALL_UNCONDITIONAL",
+  "authority": "C_MILLER_SOVEREIGN",
+  "node_status": "G001_FINALITY"
+}
