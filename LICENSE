@@ -1,0 +1,30 @@
+PROPRIETARY SOFTWARE LICENSE AGREEMENT (NON-OPEN SOURCE)
+IMPORTANT: PLEASE READ THIS AGREEMENT CAREFULLY. DOWNLOADING, INSTALLING, RUNNING, OR USING THIS SOFTWARE CONSTITUTES ACCEPTANCE OF ALL THE TERMS AND CONDITIONS OF THIS AGREEMENT.
+This Proprietary Software License Agreement ("Agreement") is a binding legal contract entered into by and between QuickPrompt Solutions (collectively with its affiliates, founders, and successors, "Licensor"), and any individual, entity, or automated system ("Licensee") that accesses, compiles, runs, or otherwise utilizes the software, scripts, configuration directories, or associated documentation provided herewith (collectively, the "Software").
+1. OWNERSHIP AND INTELLECTUAL PROPERTY RIGHTS
+1.1 Reservation of Title. The Software, including all source code, compiled binaries, algorithms, structural workflows, state machine configurations, logic pipelines, user interfaces, watermarks, and documentation, is and shall remain the sole and exclusive property of Licensor. This Software is licensed, not sold, to Licensee.
+1.2 Copyright Protection. The Software is protected by the copyright laws of the United States, international treaty provisions, and all other applicable national or local intellectual property laws. Except for the limited operational license granted under Section 2, all rights, title, and interest are expressly reserved by Licensor.
+2. GRANT OF LICENSE
+2.1 Limited Non-Commercial License. Subject to strict compliance with all terms of this Agreement, Licensor hereby grants to Licensee a limited, personal, non-exclusive, non-transferable, revocable, and non-sublicensable license to load, execute, and evaluate the Software solely for internal, local, non-commercial purposes on devices owned or controlled by Licensee.
+2.2 Commercial Use Restriction. Any deployment of the Software in a production environment, commercial enterprise, client-facing service, or revenue-generating activity requires an independent, written commercial license agreement signed by an authorized representative of QuickPrompt Solutions.
+3. EXPLICIT RESTRICTIONS (NON-OPEN SOURCE ENFORCEMENT)
+Licensee shall not, and shall not permit or authorize any third party or automated agent to:
+￼ 3.1 No Redistribution: Sell, lease, rent, sublicense, assign, distribute, publish, upload to public repositories (such as public GitHub repositories), or otherwise transfer or share the Software (or any portion thereof) with any third party.
+￼ 3.2 No Modifications: Modify, adapt, translate, or create derivative works of the Software, nor merge the Software with any other software.
+￼ 3.3 No Reverse Engineering: Decompile, disassemble, reverse engineer, decrypt, or attempt to derive or reconstruct the source code, underlying algorithms, or secret cryptographic signatures of the Software.
+￼ 3.4 No Open Source Triggering: Subject the Software or any derivative thereof to any Open Source Software license (such as GNU GPL, Mozilla Public License, or similar copyleft licenses) that would require the Software to be disclosed or distributed in source code form.
+￼ 3.5 Proprietary Notices: Remove, alter, or obscure any copyright, trademark, patent, or other proprietary rights notices, watermarks (including SynthID or VCCMAC markers), or licensing metadata embedded within the Software.
+4. CONFIDENTIALITY
+4.1 Confidential Information. Licensee acknowledges that the Software contains highly proprietary information, trade secrets, and unique structural logic belonging to Licensor. Licensee agrees to maintain the strict confidentiality of the Software and shall not disclose or expose any raw code, data models, or implementation mechanics to third parties.
+5. TERMINATION
+This Agreement is effective until terminated. Licensee may terminate this Agreement at any time by destroying all copies of the Software in their possession. This license terminates automatically without notice from Licensor if Licensee fails to comply with any provision of this Agreement. Upon termination, Licensee must immediately cease all use of the Software and delete or destroy all local copies.
+6. DISCLAIMER OF WARRANTIES
+THE SOFTWARE IS PROVIDED "AS IS" AND WITH ALL FAULTS. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, LICENSOR DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, SYSTEM STABILITY, SECURITY, TIMELINESS, ACCURACY, AND NON-INFRINGEMENT. LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL OPERATE UNINTERRUPTED, ERROR-FREE, OR FREE OF THERMAL OR MEMORY LOOP STRESSES.
+7. LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL LICENSOR OR ITS FOUNDERS BE LIABLE FOR ANY CONSEQUENTIAL, INCIDENTAL, DIRECT, INDIRECT, SPECIAL, PUNITIVE, OR OTHER DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, INFORMATION DISCLOSURE, HARDWARE THERMAL OVERHEAT, OR BUSINESS INTERRUPTION) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+8. GOVERNING LAW AND JURISDICTION
+This Agreement shall be governed by, and construed in accordance with, the laws of the Commonwealth of Pennsylvania, United States, without regard to its conflict of laws principles. Any legal action, suit, or proceeding arising out of or relating to this Agreement shall be instituted exclusively in the state or federal courts located in the Commonwealth of Pennsylvania.
+9. ENTIRE AGREEMENT
+This Agreement constitutes the entire understanding between Licensor and Licensee concerning the Software and supersedes any prior verbal or written agreements, communications, or AI-generated simulations regarding the licensing of the Software.
+Licensor Contact Information: Cory Miller
+quickpromptsolutions@yahoo.com
