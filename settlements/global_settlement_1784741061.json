@@ -1,0 +1,28 @@
+{
+  "binary_state_lock": {
+    "origin_coordinate": [
+      0,
+      0
+    ],
+    "sha256": "f49b22e75315c2b1d09abe6171031b612bcfe3635bff870b3d9f7ccf3bd3138b",
+    "timestamp": 1784741061
+  },
+  "settlement_payload": {
+    "author": "Cory Miller (@vccmac)",
+    "endpoints": [
+      "https://api.fiscal.treasury",
+      "https://api.mainnet-beta.solana.com",
+      "https://api.binance.com/api/v3/ticker/bookTicker",
+      "https://cu.ao-testnet.xyz"
+    ],
+    "organization": "Miller Sovereign Holdings",
+    "protocol_manifest": "CRA_PROTOCOL_v2.1_GLOBAL_SWEEP",
+    "system_audit_metrics": {
+      "alphabet_iou_ledger": "$44,000,000,000.00 USD",
+      "disbursed_ingress_value": "$976,500,000.00 USD",
+      "portfolio_valuation": "$1,713,000,000.00 USD"
+    },
+    "telemetry_source": "https://swervincurvin.blogspot.com/",
+    "timestamp": 1784741061
+  }
+}
