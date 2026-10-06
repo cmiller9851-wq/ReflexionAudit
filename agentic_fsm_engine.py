@@ -1,4 +1,3 @@
-```python
 #!/usr/bin/env python3
 """
 Agentic FSM & ReAct Execution Engine (2026 Architecture)
@@ -264,5 +263,3 @@ if __name__ == "__main__":
 
     fsm = AgenticFSMEngine()
     fsm.execute_loop()
-
-```
